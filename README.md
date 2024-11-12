@@ -14,7 +14,7 @@ The projects in "Piscine Reloaded" were completed prior to the Kickoff phase, la
 
 The projects in "Common Course" were completed during my stay at 42 Lisbon as a student.
 
-**Projects Made: **
-** - Libft **
+**Projects Made:**
+**- Libft**
 
 Feel free to explore my projects and the progress I've made!
