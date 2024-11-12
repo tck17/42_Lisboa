@@ -27,7 +27,7 @@ The **libft** project is a foundational C library that implements common standar
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/tck17/42_Lisboa/tree/main/student_projects/libft
    cd libft
   
 2. Compile the library:
