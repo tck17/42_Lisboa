@@ -10,4 +10,11 @@ The projects in the "Piscine" folder represent the skills and knowledge I acquir
 
 The projects in "Piscine Reloaded" were completed prior to the Kickoff phase, laying the foundation for my future work in programming.
 
+## Common Course
+
+The projects in "Common Course" were completed during my stay at 42 Lisbon as a student.
+
+**Projects Made: **
+** - Libft **
+
 Feel free to explore my projects and the progress I've made!
