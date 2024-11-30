@@ -8,6 +8,7 @@ The **ft_printf** project is a recreation of the standard `printf` function, a c
 3. [Usage](#usage)
 4. [Supported Format Specifiers](#supported-format-specifiers)
 5. [Compilation Rules](#compilation-rules)
+6. [Example Functions](#example-functions)
 
 ## Project Structure
 
@@ -67,3 +68,36 @@ The Makefile provides the following commands:
 *   **make fclean**: Removes both object files and the library (libftprintf.a).
     
 *   **make re**: Rebuilds the library from scratch by performing fclean followed by all.
+
+
+## Example Functions
+
+Here are some core functions implemented in `ft_printf`:
+
+**`ft_output_format`:**
+
+Handles the parsing and formatting based on the format specifier:
+```bash
+int ft_output_format(va_list *args, char symbol);
+```
+
+**`ft_putnbr`:**
+
+Prints a signed integer:
+```bash
+int ft_putnbr(int n);
+```
+
+**`ft_puthex`:**
+
+Prints an unsigned number in hexadecimal format:
+```bash
+int ft_puthex(unsigned long n, int uppercase);
+```
+
+**`ft_putptr`:**
+
+Prints a pointer address:
+```bash
+int ft_putptr(void *n, int uppercase);
+```
