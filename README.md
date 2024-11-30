@@ -42,6 +42,8 @@ The projects in "Common Course" were completed during my stay at 42 Lisbon as a 
 
 **Projects Made:**
 
-**- Libft (125%)**
+* **Libft (125%)**
+* **Ft_Printf (100%)**
+* **Get_Next_Line (125%)**
 
 Feel free to explore my projects and the progress I've made!
